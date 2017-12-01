@@ -1,0 +1,22 @@
+{
+  "name": "unittestingbasic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agrechykhin01/UnitTestingBasic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agrechykhin01/UnitTestingBasic/issues"
+  },
+  "homepage": "https://github.com/agrechykhin01/UnitTestingBasic#readme",
+  "devDependencies": {
+    "jasmine": "^2.8.0"
+  }
+}
