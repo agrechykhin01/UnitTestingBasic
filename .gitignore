@@ -1,7 +1,2 @@
 node_modules/
-.idea/
-*.js
-!spec/**/*.js
-.npmrc
-*.iml
-package-lock.json
+
